@@ -1,6 +1,6 @@
 /*
 
-exercice 7 (100 points)
+exercice 7 (130 points)
 - Use the countries array to create the following array of arrays:
 
 
